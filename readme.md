@@ -68,9 +68,7 @@ _(The correct matches are B, C, D, A)_
 
 ## Part 4: Ethical Reflection
 
-_(This is a personal template for you to adapt)_
-
-**Project:** [e.g., Smart Agriculture AI from the last assignment]
+**Project:**
 
 I will ensure my project adheres to ethical AI principles by focusing on three key areas. First, for **Justice and Fairness**, the crop yield model must not be biased against small-scale farmers who may have "noisier" or less-complete data. I will address this by testing the model's accuracy on different farm sizes. Second, for **Privacy and Data Governance**, farmers own their data. I will ensure all data is anonymized and that the farmer's consent is required before their data is used to retrain the global model. Third, for **Transparency**, I will not just provide a yield "prediction" but also an "explanation" (e.g., "Yield is low due to poor Nitrogen levels"), so the farmer can take a concrete, actionable step.
 
